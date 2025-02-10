@@ -1,6 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&display=swap');
-body{
-    background-color: rgb(58,51, 91);
+
+body {
+    background-color: rgb(58, 51, 91);
     color: rgb(225, 175, 198);
     font-family: "DM Serif Text", serif;
+}
+
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(201, 131, 170);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: rgb(240, 227, 201);
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background-color: rgb(190, 100, 156);
+}
+.navbar li{
+    float: left;
 }
