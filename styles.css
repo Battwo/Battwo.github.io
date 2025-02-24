@@ -9,6 +9,7 @@ body {
 h1{
     text-align: center;
 }
+
 .navbar ul{
     list-style-type: none;
     background-color: rgb(201, 131, 170);
@@ -30,4 +31,28 @@ h1{
 }
 .navbar li{
     float: left;
+}
+
+.text-white {
+    color: rgb(255, 255, 255);
+}
+
+#heading {
+    color:rgb(225, 175, 198);
+}
+
+.text-pink{
+    border-color:rgb(190, 100, 156);
+
+}
+
+.color-pink{
+    color:rgb(225, 175, 198);
+}
+
+img{
+    width: 430px;
+    padding: 4px;
+    border: 4px solid white;
+    
 }
