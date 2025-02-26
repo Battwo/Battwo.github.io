@@ -50,10 +50,11 @@ h1{
     color:rgb(225, 175, 198);
 }
 
-img{
+img {
     width: 430px;
     padding: 4px;
     border: 4px solid white;
+    border-radius: 24px;
     
 }
 .navbar {
@@ -68,3 +69,24 @@ img{
         width: 300px;
         border: 3px solid #fbeef8;
       }
+
+ 
+.no_img{
+    width: 430px;
+    padding: 4px;
+    border: 4px solid white;
+    border-radius: 24px;
+
+}
+button:hover{
+    font-size: medium;
+    background-color: #fbeef8;
+}
+
+button:active{
+    font-size: medium;
+    background-color: #f0cbe2;
+}
+p:hover, h1:hover, a:hover {
+    background-color:#f9eef5;
+  }
