@@ -90,3 +90,6 @@ button:active{
 p:hover, h1:hover, a:hover {
     background-color:#f9eef5;
   }
+.contacts{
+        text-align: center;
+}
