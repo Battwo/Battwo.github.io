@@ -83,7 +83,7 @@ button:active{
     font-size: medium;
     background-color: #f0cbe2;
 }
-p:hover, h1:hover, a:hover {
+p:hover, h1:hover, a:hover, h2:hover, li:hover :hover {
     background-color:#f9eef5;
   }
 .contacts{
@@ -95,3 +95,11 @@ p:hover, h1:hover, a:hover {
     text-decoration: none;
     font-family: "DM Serif Text", serif;
 }
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
