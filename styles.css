@@ -122,11 +122,7 @@ p:hover, h1:hover, a:hover, h2:hover, li:hover {
   }
 
 
-
-
-
-
-   .border-link {
+.border-link {
         color: #ff69b4;
         padding: 10px 20px;
         border: 3px solid #ff69b4;
